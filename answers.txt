@@ -1,0 +1,10 @@
+What is RFM and where is it used?
+RFM stands for Recency, Frequency, and Monetary — a customer segmentation technique. It is widely used in marketing and CRM to identify customer value and target strategies.
+How do you define Recency in RFM?
+Recency measures how recently a customer made a purchase. Customers with lower recency values are considered more engaged and valuable.
+Why do we use quantile binning in segmentation?
+Quantile binning divides customers into equal-sized groups based on their RFM values. This ensures balanced segmentation and fair comparison across different ranges.
+What actions can be taken for “At Risk” customers?
+At Risk customers can be re‑engaged with win‑back campaigns, personalized offers, and feedback requests. The goal is to rebuild trust and encourage them to return.
+How do you validate segmentation usefulness?
+Segmentation is validated by checking business outcomes like retention, conversion, and revenue uplift. Comparing segment behavior against KPIs confirms its practical value
