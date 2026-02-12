@@ -1,0 +1,16 @@
+# Champions (RFM Score 9–12)
+- Reward loyalty: Provide exclusive perks such as early access to new products or VIP events.
+- Strengthen engagement: Launch referral programs where they earn benefits for bringing in new customers.
+- Upsell opportunities: Introduce premium bundles or personalized offers to maximize their already strong spending habits.
+# Loyal (RFM Score 7–8)
+- Maintain consistency: Offer loyalty points or tiered membership benefits to keep them engaged.
+- Personalized communication: Send tailored recommendations based on past preferences.
+- Cross-sell campaigns: Introduce complementary products/services to expand their basket size.
+# Potential Loyalists (RFM Score 5–6)
+- Nurture growth: Provide limited-time discounts or trial offers to encourage repeat purchases.
+- Build trust: Share success stories, testimonials, or product guarantees to strengthen confidence.
+- Convert to loyalists: Target them with “next purchase” incentives like free shipping or bonus points.
+# At Risk (RFM Score ≤4)
+- Re‑engagement campaigns: Send win‑back emails with strong incentives (e.g., “We miss you” offers).
+- Feedback collection: Ask for input on why they disengaged, then act on those insights.
+- Risk mitigation: Offer flexible return policies or customer support outreach to rebuild trust.
